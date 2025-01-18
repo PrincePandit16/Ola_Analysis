@@ -2,13 +2,19 @@
 
 This project involves analyzing Ola ride booking data using Power BI to uncover trends, insights, and patterns. The goal is to help improve operational efficiency and customer satisfaction.
 
-#📂 Files in the Repository
+
+
+
+# 📂 Files in the Repository
 
 Ola_Analysis.pbix: Power BI file containing the analysis and visualizations.
 
 Booking.csv: Dataset used for the analysis. Contains ride booking details.
 
-#📊 Dataset Overview
+
+
+
+# 📊 Dataset Overview
 
 Source: The Booking.csv file contains data about Ola rides.
 
@@ -26,7 +32,10 @@ Request Time: Time the ride was requested.
 
 Drop Time: Time the ride was completed.
 
-#🎯 Objectives of the Analysis
+
+
+
+# 🎯 Objectives of the Analysis
 
 Identify the most frequent pickup points.
 
@@ -36,13 +45,19 @@ Analyze ride completion rates and cancellations.
 
 Discover insights into driver performance and availability.
 
-🛠 Tools and Technologies
+
+
+
+# 🛠 Tools and Technologies
 
 Power BI: For creating dashboards and visualizations.
 
 CSV: Dataset format.
 
-#🚀 How to Use
+
+
+
+# 🚀 How to Use
 
 Clone this repository:
 
@@ -52,7 +67,10 @@ Open the Ola_Analysis.pbix file in Power BI to view the analysis.
 
 The Booking.csv file can be used to replicate or extend the analysis.
 
-#📈 Key Insights
+
+
+
+# 📈 Key Insights
 
 Peak booking times occur during mornings and evenings.
 
@@ -60,10 +78,15 @@ The highest cancellation rates are at specific pickup points.
 
 Driver availability varies significantly by location and time.
 
-#📜 License
+
+
+
+# 📜 License
 
 This project is licensed under the MIT License.
 
-#🤝 Contributions
+
+
+# 🤝 Contributions
 
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
